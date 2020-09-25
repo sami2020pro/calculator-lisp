@@ -10,7 +10,7 @@ sudo pacman -S clisp
 sudo apt-get install clisp
 
 # Run Code
-cd src
+cd src \n
 clisp calculator.lisp
 
 Enjoy ;)
