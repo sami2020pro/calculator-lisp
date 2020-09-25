@@ -1,5 +1,5 @@
 # calculatorLisp
-A simple calculator written with ordinary lisp
+A simple calculator written with common lisp
 
 Install clisp to execute the code:
 
