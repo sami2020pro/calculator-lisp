@@ -10,8 +10,8 @@ Install clisp to execute the code:
 `sudo apt-get install clisp`
 
 # Run Code
-`cd src
+`cd src`
 
-clisp calculator.lisp`
+`clisp calculator.lisp`
 
 Enjoy ;)
