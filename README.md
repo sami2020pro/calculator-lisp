@@ -1,4 +1,4 @@
-# calculatorLisp
+# calculator-lisp
 A simple calculator written with common lisp
 
 Install clisp to execute the code:
