@@ -1,17 +1,22 @@
 # calculator-lisp
 A simple calculator written with common lisp
 
-Install clisp to execute the code:
+Install **clisp** to execute the code:
 
 # pacman
-`sudo pacman -S clisp`
+```bash
+sudo pacman -S clisp
+```
 
 # apt
-`sudo apt-get install clisp`
+```bash
+sudo apt-get install clisp
+```
 
 # Run Code
-`cd src`
+```bash
+cd src
+clisp calculator.lisp
+```
 
-`clisp calculator.lisp`
-
-Enjoy ;)
+('Sami Ghasemi)
